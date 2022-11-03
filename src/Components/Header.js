@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import logo from '../logo.gif'
 import APi from './APi'
-// import background from '../background.jpeg'
+
 import Home from './Home'
 import Temp from './Temp'
 function Header() {
